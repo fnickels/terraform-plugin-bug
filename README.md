@@ -1,5 +1,7 @@
 # terraform-plugin-bug
 
+Reported in https://github.com/hashicorp/terraform/issues/31442
+
 This repository is used to reproduce a bug detected in the terraform cli v1.2.5 and earlier
 
 Checked versions: v.1.0.5, v1.2.5
