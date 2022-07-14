@@ -1,5 +1,5 @@
 
-.PHONY: test
+.PHONY: test dev
 
 test:
 	#
