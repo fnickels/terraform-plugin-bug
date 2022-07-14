@@ -1,4 +1,3 @@
-# sane defaults
 terraform {
   required_providers {
     # standard form
